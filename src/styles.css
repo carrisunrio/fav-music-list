@@ -1,0 +1,57 @@
+.App {
+  font-family: cursive;
+  text-align: center;
+}
+nav {
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 1rem;
+  border: 2px solid black;
+  background: #f3f4f6;
+  border-radius: 3rem;
+}
+h1,
+h2 {
+  text-transform: uppercase;
+}
+
+p {
+  font-weight: bold;
+  font-size: large;
+}
+#btn-container {
+  max-width: 600px;
+  margin: auto;
+  border: 2px solid black;
+  background: #f3f4f6;
+  border-radius: 1rem;
+  background-color: grey;
+}
+button {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 7rem;
+  background-color: teal;
+  color: white;
+  padding: 1rem;
+  margin: 1rem;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+}
+
+#list-container {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 1rem;
+  background: #f3f4f6;
+  border: 2px solid black;
+  border-radius: 1rem;
+}
+#genre {
+  font-size: 1rem;
+}
+.listItem {
+  margin: 1rem;
+  text-align: start;
+}
